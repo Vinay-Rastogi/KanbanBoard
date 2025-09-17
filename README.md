@@ -54,8 +54,8 @@ src/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/<your-username>/dynamic-kanban-board.git
-cd dynamic-kanban-board
+git clone https://github.com/Vinay-Rastogi/KanbanBoard.git
+cd KanbanBoard
 ```
 
 ### 2️⃣ Install dependencies
