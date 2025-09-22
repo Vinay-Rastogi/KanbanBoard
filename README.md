@@ -1,5 +1,10 @@
 # 📝 Dynamic Kanban Board
 
+A responsive **Kanban Board** built with **React** and **Tailwind CSS**.
+
+## 🌍 Live Demo
+🚀 **Try it here:** [Kanban Board](https://kanban18.netlify.app/)
+
 A responsive **Kanban Board** built with **React** and **Tailwind CSS**, featuring:
 
 - ✅ **Add / Delete tasks**
